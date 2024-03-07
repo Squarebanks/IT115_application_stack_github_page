@@ -9,7 +9,7 @@ We created a tutorial that details how to install a stack that consists of Linux
 ## Web Application tutorial
 
 ### [Application tutorial]()
-Using our LEMP stack, we are hosting a minimally interactive text-based game. The link above will bring you to a tutorial on how to create the game using the LEMP stack above. 
+Using our LEMP stack, we are hosting a minimally interactive text-based game. The link above will bring you to a tutorial on how to host the game using the LEMP stack above. 
 
 ## Github Repo
 
