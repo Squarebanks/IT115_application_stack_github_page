@@ -14,5 +14,5 @@ Using our LEMP stack, we are hosting a minimally interactive text-based game. Th
 ## Github Repo
 
 ### [Repo](https://github.com/marioeyoung/adarkroomit115)
-Above is a link to the code used for the web app. 
+The repo we used was for the game "A Dark Room", created by Double Speak Games. Above is a link to the code used for the game. 
 
