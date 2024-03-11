@@ -4,12 +4,12 @@ Github pages for Application Stacks Assignment for IT 115
 ## LEMP Stack tutorial
 
 ### [Stack tutorial](https://docs.google.com/document/d/12cpMmUJecI-CJ8xCB3XXAeFqRcbnCBgimqDLBulxnuY/edit?usp=sharing)
-We created a tutorial that details how to install a stack that consists of Linux, NginX, Sqlite, and Python. These applications together create a LEMP stack, which can be used for a slew of application hosting purposes. For our project, our LEMP stack will be hosting at text-based game application, which you will find links to below. 
+We created a tutorial that details how to install a stack that consists of Linux, NginX, Sqlite, and Python. These applications together create a LEMP stack, which can be used for a slew of application hosting purposes. For our project, our LEMP stack will be hosting a text-based game application, "A Dark Room",  which you will find links to below. 
 
 ## Web Application tutorial
 
-### [Application tutorial]()
-Using our LEMP stack, we are hosting a minimally interactive text-based game. The link above will bring you to a tutorial on how to host the game using the LEMP stack above. 
+### [Application tutorial](https://docs.google.com/document/d/1vR0_AuB9KVAndsiw32Njdkd8YaNTCMv9X8Df675BJoA/edit?usp=sharing)
+Using our LEMP stack detailed above, we hosted a minimally interactive text-based game called "A Dark Room". The link above will bring you to a tutorial on how to host the game using the LEMP stack above. 
 
 ## Github Repo
 
